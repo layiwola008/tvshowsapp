@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+  background: #e2d810;
+}
+#inputField {
+  width: 270px;
+  padding: 15px;
+  margin: 0 0 9px; 0;
+  position: relative;
+  font-size: 30px;
+  color:blue;
+  border-radius: 8px;
+  z-index: 3;
+}
+button {
+  padding: 18px;
+  font-size: 24px;
+  background: #d9138a;
+  color: #ffffff;
+  border-radius: 8px;
+  margin-buttom: 20px;
+  position: relative;
+  left: -15px;
+  top: 4px;
+   z-index: 1;
+}
